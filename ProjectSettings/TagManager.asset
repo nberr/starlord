@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Turret
+  - Asteroid
+  - IntegratedUI
+  - LaserTurret
+  - Pool
+  - NoEvents
+  - Bullet1
+  - Bullet2
+  - Bullet3
+  - Explosion
+  - Explosion1
+  - OrbitalTurret
+  - Beam
+  - AutoTurret
+  - MultiTurret
+  - Enemy2
+  - TeleportingEnemy
+  - Enemy3
+  - Enemy4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullets
+  - Particles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1318369883
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3122791157
+    locked: 0
+  - name: Bullets
+    uniqueID: 2153438525
+    locked: 0
+  - name: Particles
+    uniqueID: 2393885227
+    locked: 0
+  - name: Turrets
+    uniqueID: 2021869793
+    locked: 0
